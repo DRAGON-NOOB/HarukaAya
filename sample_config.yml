@@ -14,7 +14,7 @@ workers: 4
 allow_excl: False
 deepfry_token: None
 del_cmds: False
-sw_api: 'ze_y0TjJY4rFgpdrd346V5_Na67xuRzKMisKgSqyfnhQ4y7heZdin5NJRjcQetwQ'
+sw_api: ''
 
 # Permission
 sudo_users: []
